@@ -1,4 +1,4 @@
-package com.hanselandpetal.catalog;
+package com.volleydemo.catalog;
 
 import android.app.Activity;
 import android.content.Context;
@@ -17,7 +17,7 @@ import com.android.volley.Response;
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.ImageRequest;
 import com.android.volley.toolbox.Volley;
-import com.hanselandpetal.catalog.model.Flower;
+import com.volleydemo.catalog.model.Flower;
 
 import java.util.List;
 

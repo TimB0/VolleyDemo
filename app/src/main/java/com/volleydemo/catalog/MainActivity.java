@@ -1,6 +1,4 @@
-package com.hanselandpetal.catalog;
-
-import java.util.List;
+package com.volleydemo.catalog;
 
 import android.app.ListActivity;
 import android.content.Context;
@@ -11,7 +9,6 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.ProgressBar;
-import android.widget.TextView;
 import android.widget.Toast;
 
 import com.android.volley.RequestQueue;
@@ -19,15 +16,17 @@ import com.android.volley.Response;
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.StringRequest;
 import com.android.volley.toolbox.Volley;
-import com.hanselandpetal.catalog.model.Flower;
-import com.hanselandpetal.catalog.parsers.FlowerJSONParser;
+import com.volleydemo.catalog.model.Flower;
+import com.volleydemo.catalog.parsers.FlowerJSONParser;
+
+import java.util.List;
 
 public class MainActivity extends ListActivity {
 
 	public static final String PHOTOS_BASE_URL = 
 		"http://services.hanselandpetal.com/photos/";
 
-	TextView output;
+	//TextView output;
 	ProgressBar pb;
 	
 	List<Flower> flowerList;
@@ -94,11 +93,7 @@ public class MainActivity extends ListActivity {
 	protected boolean isOnline() {
 		ConnectivityManager cm = (ConnectivityManager) getSystemService(Context.CONNECTIVITY_SERVICE);
 		NetworkInfo netInfo = cm.getActiveNetworkInfo();
-		if (netInfo != null && netInfo.isConnectedOrConnecting()) {
-			return true;
-		} else {
-			return false;
-		}
+        return netInfo != null && netInfo.isConnectedOrConnecting();
 	}
 	
 }

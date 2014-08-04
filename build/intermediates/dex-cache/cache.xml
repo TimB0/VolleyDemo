@@ -2,25 +2,25 @@
 <pre-dex-items>
 
     <item
-        dex="/Users/discocide666/Dropbox/Android/RESTful_Services/06_Libraries/VolleyImages/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-rc1-990abb1679d4b708cf9276b0ae53ce3239fc22f4.jar"
-        jar="/Users/discocide666/Dropbox/Android/RESTful_Services/06_Libraries/VolleyImages/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0-rc1/libs/internal_impl-21.0.0-rc1.jar"
+        dex="/Users/discocide666/Dropbox/Android/RESTful_Services/06_Libraries/VolleyDemo/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-rc1-5c8a735e065f7d3767d5262e4e37c76211aa16aa.jar"
+        jar="/Users/discocide666/Dropbox/Android/RESTful_Services/06_Libraries/VolleyDemo/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0-rc1/libs/internal_impl-21.0.0-rc1.jar"
         jumboMode="false"
         revision="20.0.0"
         sha1="d1a625e8a94bf7c73e0f9d30ad1b483ff6ea64e9"/>
     <item
-        dex="/Users/discocide666/Dropbox/Android/RESTful_Services/06_Libraries/VolleyImages/app/build/intermediates/pre-dexed/debug/classes-26ad1370388bcde15e63e6ea83a86df3854ed371.jar"
-        jar="/Users/discocide666/Dropbox/Android/RESTful_Services/06_Libraries/VolleyImages/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0-rc1/classes.jar"
+        dex="/Users/discocide666/Dropbox/Android/RESTful_Services/06_Libraries/VolleyDemo/app/build/intermediates/pre-dexed/debug/classes-afa1aa69fdf8b23fc9819d359ecdd5b18fe47136.jar"
+        jar="/Users/discocide666/Dropbox/Android/RESTful_Services/06_Libraries/VolleyDemo/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0-rc1/classes.jar"
         jumboMode="false"
         revision="20.0.0"
         sha1="7ae84435ebc95f67a3f5e511025e96caa8688da2"/>
     <item
-        dex="/Users/discocide666/Dropbox/Android/RESTful_Services/06_Libraries/VolleyImages/app/build/intermediates/pre-dexed/debug/volley-22653f54e0741aa528124539cd5c6a871e09ca3e.jar"
-        jar="/Users/discocide666/Dropbox/Android/RESTful_Services/06_Libraries/VolleyImages/app/libs/volley.jar"
+        dex="/Users/discocide666/Dropbox/Android/RESTful_Services/06_Libraries/VolleyDemo/app/build/intermediates/pre-dexed/debug/volley-c1a663c18dff0a089cec54da9882ddfab711fdb7.jar"
+        jar="/Users/discocide666/Dropbox/Android/RESTful_Services/06_Libraries/VolleyDemo/app/libs/volley.jar"
         jumboMode="false"
         revision="20.0.0"
-        sha1="0b59a1d65db47ffa9c79abc472b447952592621a"/>
+        sha1="0e30cc451356ef7bd5596213a20ed2a224c36e57"/>
     <item
-        dex="/Users/discocide666/Dropbox/Android/RESTful_Services/06_Libraries/VolleyImages/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-rc1-9da56907a54bc62b80b021d0066dc3e5625c73ba.jar"
+        dex="/Users/discocide666/Dropbox/Android/RESTful_Services/06_Libraries/VolleyDemo/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-rc1-9da56907a54bc62b80b021d0066dc3e5625c73ba.jar"
         jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0-rc1/support-annotations-21.0.0-rc1.jar"
         jumboMode="false"
         revision="20.0.0"

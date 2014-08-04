@@ -1,13 +1,13 @@
-package com.hanselandpetal.catalog.parsers;
+package com.volleydemo.catalog.parsers;
 
-import java.util.ArrayList;
-import java.util.List;
+import com.volleydemo.catalog.model.Flower;
 
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import com.hanselandpetal.catalog.model.Flower;
+import java.util.ArrayList;
+import java.util.List;
 
 public class FlowerJSONParser {
 	
